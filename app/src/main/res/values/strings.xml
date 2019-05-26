@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Artsy</string>
+    <string name="poem_title">Poem Title</string>
+    <string name="poem_body">Poem_Body</string>
 </resources>
